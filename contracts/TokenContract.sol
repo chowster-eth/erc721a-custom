@@ -18,7 +18,7 @@ contract TokenContract is Ownable, ERC721A, ReentrancyGuard {
     uint32 allowListSaleStartTime;
     uint32 publicSaleStartTime;
     uint64 allowListPriceWei;
-    uint256 allowListTotalSize;
+    uint32 allowListTotalSize;
     uint64 publicPrice;
     uint32 publicSaleKey;
   }
@@ -127,7 +127,7 @@ contract TokenContract is Ownable, ERC721A, ReentrancyGuard {
     uint32 allowListSaleStartTime,
     uint32 publicSaleStartTime,
     uint64 allowListPriceWei,
-    uint256 allowListTotalSize,
+    uint32 allowListTotalSize,
     uint64 publicPriceWei,
     uint32 publicSaleKey
   ) external onlyOwner {

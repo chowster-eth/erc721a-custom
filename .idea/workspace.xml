@@ -1294,6 +1294,8 @@
       <change afterPath="$PROJECT_DIR$/../../dex/contracts/Mocks/Bat.sol" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../dex/contracts/Mocks/Dai.sol" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../dex/test/dex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contracts/TokenContract.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/token-contract-test.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../etb/profitable-flashloans/contracts/Flashloan.sol" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../etb/profitable-flashloans/contracts/IUniswapV2Router01.sol" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../etb/profitable-flashloans/contracts/IUniswapV2Router02.sol" afterDir="false" />
@@ -1386,7 +1388,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -1416,7 +1418,8 @@
       <updated>1655783063889</updated>
       <workItem from="1655783066021" duration="658000" />
       <workItem from="1655797214235" duration="113000" />
-      <workItem from="1655797339151" duration="34122000" />
+      <workItem from="1655797339151" duration="34288000" />
+      <workItem from="1656068671110" duration="2881000" />
     </task>
     <servers />
   </component>
